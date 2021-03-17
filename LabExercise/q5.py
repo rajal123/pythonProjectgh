@@ -25,3 +25,5 @@ remain_class2 = (no_student_class2 % 2)
 print(f"remining desk for second class is {remain_class2}")
 remain_class3 = (no_student_class3 % 2)
 print(f"remaining desk for third class is {remain_class3}")
+total_desk = desk_class1 + desk_class2 + desk_class3 + remain_class1 + remain_class2 + remain_class3
+print(f"total number of desks that can be purchased is {total_desk} ")
