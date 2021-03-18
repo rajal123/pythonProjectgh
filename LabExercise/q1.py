@@ -4,7 +4,7 @@
 # how many apples will remain in the basket?the programs read number N and K
 
 N=int(input("enter the number of students in class: "))
-K=int(input("enter the nuber of apples: "))
+K=int(input("enter the number of apples: "))
 apples_get=(K//N)
 remaining_apples =(K%N)
 print(f"each student get {apples_get} ")
