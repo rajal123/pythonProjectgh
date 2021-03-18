@@ -1,4 +1,4 @@
-# given the integer N- the number of minutes that is passed since midnight -
+# '''given the integer N- the number of minutes that is passed since midnight -
 ''how many hours and minutes are displayed on the 24th digital clock?
 the program should print two numbers: the number of hours (between 0 and 23)
 and the number of minutes (between 0 and 59)
